@@ -19,7 +19,6 @@ I work on vulnerability management and DFIR at ePLDT, and build tools that make 
 | Project | Focus | Availability |
 | --- | --- | --- |
 | [Leadgen Automation](projects/leadgen.md) | Collection, enrichment, routing, and CRM workflows | Public overview; private client system |
-| [SteelFlow](projects/steelflow.md) | ERP, inventory, and logistics application | Public overview; private source |
 | [AEL Lead Pipeline](projects/ael-lead-pipeline.md) | Prospect research, data quality, and explainable scoring | Public overview; private source |
 | [Personal Website](projects/personal-website.md) | Cybersecurity portfolio and professional background | Live public website |
 
